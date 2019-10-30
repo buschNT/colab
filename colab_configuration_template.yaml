@@ -1,0 +1,7 @@
+---
+git:
+  private:
+    username: ""
+    token: ""
+    repository: ""
+    path: "code_private"
